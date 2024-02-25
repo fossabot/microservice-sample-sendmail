@@ -1,4 +1,6 @@
 # Overview
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimosan%2Fmicroservice-sample-sendmail.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimosan%2Fmicroservice-sample-sendmail?ref=badge_shield)
+
 
 * This system consists of two components: (1) user management and (2) a workflow that allows only pre-approved emails to be sent. 
 * Each component is composed of microservices.
@@ -38,3 +40,7 @@
 
 <img src="microservce_architecture.png">
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimosan%2Fmicroservice-sample-sendmail.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimosan%2Fmicroservice-sample-sendmail?ref=badge_large)
